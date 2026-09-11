@@ -37,11 +37,11 @@ Total: **168,852** lines of code across **923** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,179 · **Forks**: 13,420 · **Open issues**: 1,366 · **Contributors**: 474
+- **Stars**: 71,269 · **Forks**: 13,440 · **Open issues**: 1,372 · **Contributors**: 473
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1523 · **Open PRs**: 224 · **Closed issues**: 1098 · **Open issues**: 268 · **Commits**: 1925
+- **Releases**: 45 · **Merged PRs**: 1522 · **Open PRs**: 229 · **Closed issues**: 1098 · **Open issues**: 274 · **Commits**: 1925
 
 ## Recent activity
 
@@ -63,4 +63,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:38:55Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:14:32Z._
