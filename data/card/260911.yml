@@ -7,7 +7,7 @@ about:
   latestVersion: "web-v0.10.0"
   latestRelease: "web-v0.10.0"
   latestPrerelease: "2.0.0-rc.1"
-  collectedAt: 2026-09-11T00:02:30Z
+  collectedAt: 2026-09-11T05:38:44Z
 timeline:
   created: 2026-04-04
   lastCommit: 2026-09-10
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-03
   lastPrerelease: 2026-06-20
 popularity:
-  star: 71139
+  star: 71179
   watcher: 260
-  fork: 13412
+  fork: 13420
   release: 45
   contributor: 474
-  pullRequest: 2441
+  pullRequest: 2447
   issue: 1366
 language:
   JavaScript: 9436532
@@ -85,13 +85,13 @@ recent:
 total:
   release: 45
   mergedPR: 1523
-  openPR: 220
+  openPR: 224
   closedIssue: 1098
   openIssue: 268
   commit: 1925
 ---
 path: /home/runner/.x-repo/github.com/santifer/career-ops
-collectedAt: 2026-09-11T00:02:36Z
+collectedAt: 2026-09-11T05:38:50Z
 loc:
   JavaScript:
     code: 132114
