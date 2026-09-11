@@ -12,35 +12,7 @@ Open-source AI job search: scan job portals, evaluate listings into a structured
 x install career-ops
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/santifer/career-ops>
-- **Homepage**: <https://career-ops.org>
-- **License**: MIT
-
-## Release
-
-- **Latest**: `web-v0.10.0` (2026-09-03)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-09-03T07:17:37Z
-
-## Popularity
-
-- **Stars**: 70,835 · **Forks**: 13,371 · **Open issues**: 1,362 · **Contributors**: 472
-
-## Totals (cumulative)
-
-- **Releases**: 45 · **Merged PRs**: 1523 · **Open PRs**: 214 · **Closed issues**: 1097 · **Open issues**: 265 · **Commits**: 1923
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 35 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 45 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
+## Code insight
 
 Total: **168,852** lines of code across **923** files in the top 5 languages.
 
@@ -52,13 +24,43 @@ Total: **168,852** lines of code across **923** files in the top 5 languages.
 | Json | 7,359 | 0 | 0 | 41 |
 | TypeScript | 6,176 | 1,713 | 625 | 72 |
 
+## Source
+
+- **Upstream**: <https://github.com/santifer/career-ops>
+- **Homepage**: <https://career-ops.org>
+- **License**: MIT
+
+## Release
+
+- **Latest**: `web-v0.10.0` (2026-09-03)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 71,139 · **Forks**: 13,412 · **Open issues**: 1,366 · **Contributors**: 474
+
+## Totals (cumulative)
+
+- **Releases**: 45 · **Merged PRs**: 1523 · **Open PRs**: 220 · **Closed issues**: 1098 · **Open issues**: 268 · **Commits**: 1925
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 35 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 45 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 45 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 45 | 0 | 0 | 0 | 0 | 0 |
+
 ## Improve this data
 
 Install metadata for career-ops lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `career-ops` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/career-ops.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/career-ops.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:42:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:02:40Z._
