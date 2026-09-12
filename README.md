@@ -37,22 +37,22 @@ Total: **168,852** lines of code across **923** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 71,269 · **Forks**: 13,440 · **Open issues**: 1,372 · **Contributors**: 473
+- **Stars**: 71,301 · **Forks**: 13,452 · **Open issues**: 1,377 · **Contributors**: 473
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1522 · **Open PRs**: 229 · **Closed issues**: 1098 · **Open issues**: 274 · **Commits**: 1925
+- **Releases**: 45 · **Merged PRs**: 1522 · **Open PRs**: 245 · **Closed issues**: 1098 · **Open issues**: 279 · **Commits**: 1925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 24 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 35 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 45 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-16 | 45 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-21 | 45 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-13 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-14 | 23 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-14 | 35 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-16 | 45 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-17 | 45 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-22 | 45 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:14:32Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:32:42Z._
