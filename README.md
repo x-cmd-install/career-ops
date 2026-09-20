@@ -4,7 +4,7 @@
 
 Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
-![career-ops](https://repo.x-cmd.io/career-ops.svg)
+[![x-cmd/install — career-ops Code Quality Monitoring Repo Card](https://repo.x-cmd.io/career-ops.svg)](https://x-cmd.com/install/career-ops)
 
 ## Install
 
@@ -14,15 +14,15 @@ x install career-ops
 
 ## Code insight
 
-Total: **174,677** lines of code across **964** files in the top 5 languages.
+Total: **176,311** lines of code across **976** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 137,673 | 53,705 | 16,643 | 734 |
-| Go | 9,798 | 907 | 1,193 | 42 |
-| Tsx | 8,894 | 589 | 604 | 73 |
+| JavaScript | 138,978 | 54,244 | 16,743 | 742 |
+| Go | 10,126 | 1,062 | 1,253 | 46 |
+| Tsx | 8,899 | 593 | 606 | 73 |
 | Json | 7,359 | 0 | 0 | 41 |
-| TypeScript | 6,285 | 1,925 | 630 | 74 |
+| TypeScript | 6,281 | 1,925 | 631 | 74 |
 
 ## Source
 
@@ -33,26 +33,26 @@ Total: **174,677** lines of code across **964** files in the top 5 languages.
 ## Release
 
 - **Latest**: `web-v0.11.0` (2026-09-16)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-19
 
 ## Popularity
 
-- **Stars**: 71,978 · **Forks**: 13,563 · **Open issues**: 1,315 · **Contributors**: 514
+- **Stars**: 72,187 · **Forks**: 13,601 · **Open issues**: 1,328 · **Contributors**: 524
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1491 · **Open PRs**: 247 · **Closed issues**: 1025 · **Open issues**: 290 · **Commits**: 2128
+- **Releases**: 47 · **Merged PRs**: 1519 · **Open PRs**: 246 · **Closed issues**: 1037 · **Open issues**: 291 · **Commits**: 2201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 23 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 35 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 47 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 47 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-28 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-21 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 47 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-30 | 47 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:48:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:53:52Z._
