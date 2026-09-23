@@ -4,7 +4,7 @@
 
 Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)
 
-[![x-cmd/install — career-ops Code Quality Monitoring Repo Card](https://repo.x-cmd.io/career-ops.svg?lang=zh)](https://x-cmd.com/install/career-ops)
+[![x-cmd/install — career-ops Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/career-ops.svg?lang=zh)](https://x-cmd.com/install/career-ops)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install career-ops
 
 ## 代码洞察
 
-合计: **176,355** 行代码（覆盖前 5 种语言、共 **976** 个文件）。
+合计: **176,462** 行代码（覆盖前 5 种语言、共 **976** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 139,022 | 54,248 | 16,744 | 742 |
+| JavaScript | 139,042 | 54,248 | 16,744 | 742 |
 | Go | 10,126 | 1,062 | 1,253 | 46 |
 | Tsx | 8,899 | 593 | 606 | 73 |
 | Json | 7,359 | 0 | 0 | 41 |
@@ -33,26 +33,26 @@ x install career-ops
 ## 发布
 
 - **最新版本**: `web-v0.11.0` (2026-09-16)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-23
 
 ## 流行度
 
-- **Star**: 72,375 · **Fork**: 13,620 · **开放 issue**: 1,467 · **贡献者**: 527
+- **Star**: 72,462 · **Fork**: 13,627 · **开放 issue**: 1,475 · **贡献者**: 527
 
 ## 累计统计
 
-- **发布数**: 47 · **已合并 PR**: 1609 · **开放 PR**: 284 · **已关闭 issue**: 1137 · **开放 issue**: 330 · **提交数**: 2228
+- **发布数**: 47 · **已合并 PR**: 1613 · **开放 PR**: 295 · **已关闭 issue**: 1137 · **开放 issue**: 338 · **提交数**: 2257
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 34 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 47 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 47 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 34 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 47 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 47 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 47 | 0 | 0 | 0 | 0 | 0 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ career-ops 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:06:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:22:04Z._
