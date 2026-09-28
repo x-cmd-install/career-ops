@@ -14,11 +14,11 @@ x install career-ops
 
 ## Code insight
 
-Total: **190,334** lines of code across **1090** files in the top 5 languages.
+Total: **192,773** lines of code across **1096** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 151,831 | 60,275 | 18,265 | 852 |
+| JavaScript | 154,120 | 60,921 | 18,486 | 858 |
 | Go | 10,608 | 1,061 | 1,269 | 48 |
 | Tsx | 9,168 | 601 | 615 | 74 |
 | Json | 7,371 | 0 | 0 | 41 |
@@ -38,22 +38,22 @@ Total: **190,334** lines of code across **1090** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 72,885 · **Forks**: 13,696 · **Open issues**: 1,503 · **Contributors**: 543
+- **Stars**: 72,944 · **Forks**: 13,720 · **Open issues**: 1,523 · **Contributors**: 545
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 1781 · **Open PRs**: 197 · **Closed issues**: 1235 · **Open issues**: 268 · **Commits**: 2426
+- **Releases**: 49 · **Merged PRs**: 1786 · **Open PRs**: 215 · **Closed issues**: 1241 · **Open issues**: 282 · **Commits**: 2433
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-29 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-29 | 34 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-31 | 49 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-02 | 49 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-07 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-29 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-30 | 22 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-30 | 33 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-01 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-03 | 49 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-08 | 49 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:09:36Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:18:04Z._
