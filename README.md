@@ -33,27 +33,27 @@ Total: **226,783** lines of code across **1313** files in the top 5 languages.
 ## Release
 
 - **Latest**: `web-v0.13.0` (2026-10-01)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 73,659 · **Forks**: 13,828 · **Open issues**: 1,607 · **Contributors**: 582
+- **Stars**: 73,743 · **Forks**: 13,850 · **Open issues**: 1,616 · **Contributors**: 584
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 1979 · **Open PRs**: 180 · **Closed issues**: 1361 · **Open issues**: 246 · **Commits**: 2635
+- **Releases**: 51 · **Merged PRs**: 1979 · **Open PRs**: 190 · **Closed issues**: 1361 · **Open issues**: 255 · **Commits**: 2638
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 20 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 30 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 50 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 51 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 51 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 30 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 49 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 51 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 51 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:44:29Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:55:27Z._
