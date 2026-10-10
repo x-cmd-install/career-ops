@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 606016,
       "digest": "sha256:98d1f0e6d62c345e3d9734f9d4b5ba15f41cb53dd547440068559303167eae4b",
-      "download_count": 47,
+      "download_count": 61,
       "created_at": "2026-10-01T07:17:25Z",
       "updated_at": "2026-10-01T07:17:25Z",
       "browser_download_url": "https://github.com/career-ops-hq/career-ops/releases/download/career-ops-v1.35.0/career-ops-sbom.spdx.json"
