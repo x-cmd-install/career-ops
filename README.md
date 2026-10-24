@@ -14,15 +14,15 @@ x install career-ops
 
 ## Code insight
 
-Total: **311,174** lines of code across **1922** files in the top 5 languages.
+Total: **316,417** lines of code across **1960** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 259,201 | 90,447 | 28,952 | 1561 |
-| Go | 14,913 | 1,874 | 1,696 | 84 |
-| Tsx | 14,758 | 863 | 1,042 | 131 |
-| TypeScript | 8,073 | 2,305 | 845 | 100 |
-| Json | 7,781 | 0 | 0 | 46 |
+| JavaScript | 264,212 | 91,452 | 29,361 | 1598 |
+| Go | 14,962 | 1,892 | 1,700 | 84 |
+| Tsx | 14,791 | 869 | 1,043 | 131 |
+| TypeScript | 8,075 | 2,316 | 845 | 100 |
+| Json | 7,920 | 0 | 0 | 47 |
 
 ## Source
 
@@ -32,34 +32,34 @@ Total: **311,174** lines of code across **1922** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `web-v0.15.0` (2026-10-16)
-- **Last commit**: 2026-10-22
+- **Latest**: `web-v0.16.0` (2026-10-23)
+- **Last commit**: 2026-10-23
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 76,655 · **Forks**: 14,195 · **Open issues**: 1,812 · **Contributors**: 676
+- **Stars**: 76,863 · **Forks**: 14,220 · **Open issues**: 1,833 · **Contributors**: 677
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 2593 · **Open PRs**: 190 · **Closed issues**: 1583 · **Open issues**: 229 · **Commits**: 3268
+- **Releases**: 57 · **Merged PRs**: 2655 · **Open PRs**: 155 · **Closed issues**: 1592 · **Open issues**: 241 · **Commits**: 3332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-24 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-25 | 30 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-26 | 51 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-28 | 55 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-02 | 55 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-24 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-25 | 20 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-26 | 32 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-27 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-29 | 57 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-03 | 57 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [career-ops-sbom.spdx.json](https://github.com/santifer/career-ops/releases/download/career-ops-v1.37.0/career-ops-sbom.spdx.json) | 597.0 KiB | `other` |
+| [career-ops-sbom.spdx.json](https://github.com/santifer/career-ops/releases/download/career-ops-v1.38.0/career-ops-sbom.spdx.json) | 597.1 KiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:31:58Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:26:04Z._
