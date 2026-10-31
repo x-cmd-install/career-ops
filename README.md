@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
+Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.
 
 [![x-cmd/install — career-ops Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/career-ops.svg)](https://x-cmd.com/install/career-ops)
 
@@ -14,15 +14,15 @@ x install career-ops
 
 ## Code insight
 
-Total: **343,269** lines of code across **2177** files in the top 5 languages.
+Total: **353,099** lines of code across **2232** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 289,360 | 97,368 | 31,917 | 1807 |
-| Tsx | 15,200 | 889 | 1,060 | 135 |
-| Go | 15,111 | 1,944 | 1,722 | 86 |
-| Json | 8,240 | 0 | 0 | 49 |
-| TypeScript | 8,122 | 2,364 | 849 | 100 |
+| JavaScript | 297,377 | 99,024 | 32,691 | 1848 |
+| Go | 16,333 | 2,026 | 1,800 | 95 |
+| Tsx | 15,329 | 893 | 1,064 | 135 |
+| Json | 8,400 | 0 | 0 | 52 |
+| TypeScript | 8,295 | 2,426 | 865 | 102 |
 
 ## Source
 
@@ -38,22 +38,22 @@ Total: **343,269** lines of code across **2177** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 78,746 · **Forks**: 14,535 · **Open issues**: 1,919 · **Contributors**: 720
+- **Stars**: 78,935 · **Forks**: 14,567 · **Open issues**: 1,931 · **Contributors**: 738
 
 ## Totals (cumulative)
 
-- **Releases**: 57 · **Merged PRs**: 2910 · **Open PRs**: 289 · **Closed issues**: 1669 · **Open issues**: 250 · **Commits**: 3599
+- **Releases**: 57 · **Merged PRs**: 2966 · **Open PRs**: 259 · **Closed issues**: 1679 · **Open issues**: 252 · **Commits**: 3656
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 52 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 57 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 57 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 57 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:35:35Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:29:42Z._

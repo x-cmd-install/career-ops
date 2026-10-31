@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).
+Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin.
 
 [![x-cmd/install — career-ops Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/career-ops.svg?lang=zh)](https://x-cmd.com/install/career-ops)
 
@@ -14,15 +14,15 @@ x install career-ops
 
 ## 代码洞察
 
-合计: **343,269** 行代码（覆盖前 5 种语言、共 **2177** 个文件）。
+合计: **353,099** 行代码（覆盖前 5 种语言、共 **2232** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| JavaScript | 289,360 | 97,368 | 31,917 | 1807 |
-| Tsx | 15,200 | 889 | 1,060 | 135 |
-| Go | 15,111 | 1,944 | 1,722 | 86 |
-| Json | 8,240 | 0 | 0 | 49 |
-| TypeScript | 8,122 | 2,364 | 849 | 100 |
+| JavaScript | 297,377 | 99,024 | 32,691 | 1848 |
+| Go | 16,333 | 2,026 | 1,800 | 95 |
+| Tsx | 15,329 | 893 | 1,064 | 135 |
+| Json | 8,400 | 0 | 0 | 52 |
+| TypeScript | 8,295 | 2,426 | 865 | 102 |
 
 ## 源代码
 
@@ -38,22 +38,22 @@ x install career-ops
 
 ## 流行度
 
-- **Star**: 78,746 · **Fork**: 14,535 · **开放 issue**: 1,919 · **贡献者**: 720
+- **Star**: 78,935 · **Fork**: 14,567 · **开放 issue**: 1,931 · **贡献者**: 738
 
 ## 累计统计
 
-- **发布数**: 57 · **已合并 PR**: 2910 · **开放 PR**: 289 · **已关闭 issue**: 1669 · **开放 issue**: 250 · **提交数**: 3599
+- **发布数**: 57 · **已合并 PR**: 2966 · **开放 PR**: 259 · **已关闭 issue**: 1679 · **开放 issue**: 252 · **提交数**: 3656
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 16 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 52 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 57 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-09 | 57 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-01 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-01 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-02 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-04 | 52 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-05 | 57 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-10 | 57 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ career-ops 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261030.yml` · 2026-10-30T06:35:35Z._
+_数据快照: `data/card/261031.yml` · 2026-10-31T06:29:43Z._
