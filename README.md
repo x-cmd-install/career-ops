@@ -33,27 +33,27 @@ Total: **511,238** lines of code across **3316** files in the top 5 languages.
 ## Release
 
 - **Latest**: `web-v0.18.0` (2026-11-10)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-26
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 84,721 · **Forks**: 15,494 · **Open issues**: 2,218 · **Contributors**: 857
+- **Stars**: 84,936 · **Forks**: 15,544 · **Open issues**: 2,222 · **Contributors**: 858
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 4085 · **Open PRs**: 162 · **Closed issues**: 1914 · **Open issues**: 304 · **Commits**: 4806
+- **Releases**: 61 · **Merged PRs**: 4085 · **Open PRs**: 178 · **Closed issues**: 1914 · **Open issues**: 308 · **Commits**: 4808
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 53 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 61 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-05 | 61 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-27 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 53 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 61 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-06 | 61 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for career-ops lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:19:56Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:56:54Z._
