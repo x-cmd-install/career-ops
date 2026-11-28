@@ -1,0 +1,194 @@
+about:
+  description: "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an application tracker. It helps you fill in each application; you press Submit. Runs locally in Codex, OpenCode and other AI CLIs, or as a Claude Code plugin."
+  license: MIT
+  homepage: https://career-ops.org
+  head: 72e7ace
+  archived: false
+  latestVersion: "web-v0.18.0"
+  latestRelease: "web-v0.18.0"
+  latestPrerelease: "2.0.0-rc.1"
+  collectedAt: 2026-11-28T08:48:00Z
+timeline:
+  created: 2026-04-04
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-10
+  lastRelease: 2026-11-10
+  lastPrerelease: 2026-06-20
+popularity:
+  star: 85279
+  watcher: 257
+  fork: 15598
+  release: 61
+  contributor: 867
+  pullRequest: 5349
+  issue: 2257
+language:
+  JavaScript: 30249312
+  TypeScript: 1627276
+  Go: 915286
+  HTML: 155346
+  Shell: 129002
+  CSS: 15062
+  TeX: 10454
+  Dockerfile: 4132
+  Nix: 4112
+  PowerShell: 3960
+totalBytes: 33113942
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 4
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 20
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 53
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 61
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 61
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 61
+  mergedPR: 4172
+  openPR: 143
+  closedIssue: 1940
+  openIssue: 317
+  commit: 4896
+---
+path: /home/runner/.x-repo/github.com/santifer/career-ops
+collectedAt: 2026-11-28T08:48:12Z
+loc:
+  JavaScript:
+    code: 447013
+    comments: 127729
+    blanks: 45457
+    files: 2725
+  Go:
+    code: 21822
+    comments: 2790
+    blanks: 2285
+    files: 117
+  Tsx:
+    code: 19099
+    comments: 1140
+    blanks: 1228
+    files: 150
+  Json:
+    code: 15182
+    comments: 0
+    blanks: 0
+    files: 267
+  TypeScript:
+    code: 10493
+    comments: 2929
+    blanks: 1007
+    files: 122
+  Yaml:
+    code: 3068
+    comments: 4088
+    blanks: 494
+    files: 28
+  Sh:
+    code: 2149
+    comments: 577
+    blanks: 219
+    files: 4
+  Html:
+    code: 1298
+    comments: 423
+    blanks: 116
+    files: 61
+  Svg:
+    code: 719
+    comments: 0
+    blanks: 4
+    files: 30
+  Tex:
+    code: 316
+    comments: 88
+    blanks: 38
+    files: 5
+  Css:
+    code: 271
+    comments: 65
+    blanks: 26
+    files: 1
+  Xml:
+    code: 136
+    comments: 2
+    blanks: 0
+    files: 5
+  PowerShell:
+    code: 63
+    comments: 7
+    blanks: 10
+    files: 2
+  Bash:
+    code: 55
+    comments: 28
+    blanks: 7
+    files: 1
+  Dockerfile:
+    code: 55
+    comments: 21
+    blanks: 9
+    files: 2
+  Nix:
+    code: 44
+    comments: 35
+    blanks: 17
+    files: 1
+  Markdown:
+    code: 0
+    comments: 53752
+    blanks: 20325
+    files: 419
+  Text:
+    code: 0
+    comments: 2123
+    blanks: 101
+    files: 127
+total:
+  code: 527807
+  comments: 200052
+  blanks: 73031
+  files: 4067
+---
+
+---
